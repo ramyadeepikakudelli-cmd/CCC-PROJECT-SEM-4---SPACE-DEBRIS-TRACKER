@@ -1,18 +1,4 @@
-# CCC-PROJECT-SEM-4---SPACE-DEBRIS-TRACKER
-OUR TEAM - 
-ch. sai sriram naidu
-k. ramya deepika 
-m. sree nanda sai 
-n. poojtha 
-v. sujatha 
-b. tejaswini
-ROLL NUMBERS -
-AP241100011872
-AP24110011841
-AP24110011861
-AP24110011812
-AP24110011819
-AP24110011890
+SPACE-DEBRIS-TRACKER
 Space Debris Tracker (C + DSA Project) Overview
 
 The Space Debris Tracker is a simulation-based system developed in C that monitors, analyzes, and manages space debris using multiple Data Structures and Algorithms (DSA) concepts.
